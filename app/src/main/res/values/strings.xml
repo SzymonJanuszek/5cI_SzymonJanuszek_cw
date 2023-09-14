@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">5cI_SzymonJanuszek_ćwiczenia</string>
+    <string name="PIN_HINT">PIN:</string>
+    <string name="NEXT">NEXT</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="LOGIN">Login:</string>
+    <string name="CONTENT_DESC">LOGO</string>
 </resources>
